@@ -49,7 +49,7 @@ Cada pasta contém os dados necessários para reproduzir os dashboards e as aná
 ## Considerações Finais
 Este repositório reflete minha jornada no Power BI e mostra como fui adquirindo habilidades e aprimorando minhas análises com o tempo. Estou sempre em busca de melhorar e aprender mais, aplicando essas habilidades em projetos futuros.
 
-Sinta-se à vontade para explorar os projetos, fazer sugestões ou compartilhar feedback. A evolução contínua é uma parte importante do meu processo de aprendizado.
+Sinta-se à vontade para explorar os projetos, fazer sugestões ou compartilhar feedback.
 
 
 
